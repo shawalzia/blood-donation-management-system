@@ -1,0 +1,7 @@
+.choice-box .list-cell {
+    -fx-text-fill: #f7f6f5; /* Sets the text color of the items in the dropdown */
+}
+
+.choice-box .label {
+    -fx-text-fill: #f7f6f5; /* Sets the text color of the selected item */
+}
